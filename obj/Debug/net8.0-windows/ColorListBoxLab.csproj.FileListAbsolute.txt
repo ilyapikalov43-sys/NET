@@ -1,0 +1,16 @@
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\bin\Debug\net8.0-windows\ColorListBoxLab.exe
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\bin\Debug\net8.0-windows\ColorListBoxLab.dll.config
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\bin\Debug\net8.0-windows\ColorListBoxLab.deps.json
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\bin\Debug\net8.0-windows\ColorListBoxLab.runtimeconfig.json
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\bin\Debug\net8.0-windows\ColorListBoxLab.dll
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\bin\Debug\net8.0-windows\ColorListBoxLab.pdb
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\ColorListBoxLab.Form1.resources
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\ColorListBoxLab.Properties.Resources.resources
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\ColorListBoxLab.csproj.GenerateResource.cache
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\ColorListBoxLab.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\ColorListBoxLab.csproj.CoreCompileInputs.cache
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\ColorListBoxLab.dll
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\refint\ColorListBoxLab.dll
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\ColorListBoxLab.pdb
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\ColorListBoxLab.genruntimeconfig.cache
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net8.0-windows\ref\ColorListBoxLab.dll

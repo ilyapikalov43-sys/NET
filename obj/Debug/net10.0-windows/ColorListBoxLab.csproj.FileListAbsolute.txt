@@ -1,0 +1,7 @@
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net10.0-windows\ColorListBoxLab.Form1.resources
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net10.0-windows\ColorListBoxLab.Properties.Resources.resources
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net10.0-windows\ColorListBoxLab.csproj.GenerateResource.cache
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net10.0-windows\ColorListBoxLab.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net10.0-windows\ColorListBoxLab.AssemblyInfoInputs.cache
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net10.0-windows\ColorListBoxLab.AssemblyInfo.cs
+F:\Учеба2\VS-labs\1\ColorListBoxLab\ColorListBoxLab\obj\Debug\net10.0-windows\ColorListBoxLab.csproj.CoreCompileInputs.cache
